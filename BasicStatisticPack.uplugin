@@ -1,0 +1,62 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Basic Statistic Pack",
+	"Description": "All our Statistic based plugins in one pack!",
+	"Category": "Simple Game Studios",
+	"CreatedBy": "Simple Game Studios",
+	"CreatedByURL": "www.simplegamestudios.co.uk",
+	"DocsURL": "www.simplegamestudios.co.uk/docs",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.com/invite/QeZhVKTPUH",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BasicLevelSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"HTML5"
+			]
+		},
+		{
+			"Name": "BasicCurrencySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"HTML5"
+			]
+		},
+		{
+			"Name": "BasicHealthSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"HTML5"
+			]
+		},
+		{
+			"Name": "BasicFactionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"HTML5"
+			]
+		}
+	]
+}
